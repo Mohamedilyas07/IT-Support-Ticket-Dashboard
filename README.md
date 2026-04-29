@@ -2,7 +2,7 @@
 
 > An interactive Power BI dashboard analyzing 3,000+ IT support tickets across multiple products, years, and support engineers.
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Dashboard.png)
 
 ---
 
